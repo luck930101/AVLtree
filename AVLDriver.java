@@ -1,4 +1,6 @@
 //Assignment satisfies extra credits;
+//Yubo Zhang
+//10/08/2017
 import java.util.Scanner;
 
 public class AVLDriver {
